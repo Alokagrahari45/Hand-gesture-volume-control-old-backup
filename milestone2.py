@@ -1,3 +1,4 @@
+# Contributor: Gokul - Video Capture
 #contributor: Alok - setup and initialization module
 import cv2
 import mediapipe as mp
