@@ -19,7 +19,7 @@ Milestone 2 – Gesture detection and distance calculation
 Milestone 3 – Volume control logic using hand gestures  
 
 ## Contributors
-- Alok Kumar
+- Alok Kumar Agrahari 
 - Gokul
 - Gouri
 - Shubh Sahu
